@@ -1,6 +1,6 @@
 {
   "name": "@exodus/ripple-address-codec",
-  "version": "4.1.1",
+  "version": "4.1.1-alpha0",
   "description": "encodes/decodes base58 encoded XRP Ledger identifiers",
   "files": [
     "dist/*",
