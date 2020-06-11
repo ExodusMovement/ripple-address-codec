@@ -13,9 +13,9 @@
     "removeComments": false,
     "preserveConstEnums": false,
     "suppressImplicitAnyIndexErrors": false,
-    "sourceMap": true,
+    "sourceMap": false,
     "skipLibCheck": true,
-    "declaration": true,
+    "declaration": false,
     "strict": true
   },
   "include": [
